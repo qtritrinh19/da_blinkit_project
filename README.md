@@ -4,15 +4,12 @@
 This project demonstrates a complete data analytics workflow using **Python**, **MS SQL Server**, and **Power BI**.  
 The dataset, sourced from [Kaggle - Blinkit Sales Dataset](https://www.kaggle.com/datasets/akxiit/blinkit-sales-dataset/data), is cleaned and prepared in Python, stored in MS SQL Server, and visualized in an interactive Power BI dashboard.
 
----
 
 ##  2. Objectives
 - Build a reproducible **ETL pipeline** from raw CSV to BI dashboard.
 - Practice **data cleaning and preprocessing** using Python.
 - Store processed data in **MS SQL Server** to simulate real-world database integration.
 - Create an interactive dashboard in **Power BI** for business insights.
-
----
 
 ## 3. Workflow
 
