@@ -16,22 +16,22 @@ The dataset, sourced from [Kaggle - Blinkit Sales Dataset](https://www.kaggle.co
 
 ## 3. Workflow
 
-### 1️⃣ Data Acquisition
+### 3.1 Data Acquisition
 - Downloaded the Blinkit sales dataset from Kaggle in CSV format.
 
-### 2️⃣ Data Preprocessing in Python
-- Libraries used: **Pandas**, **NumPy**.
+### 3.2 Data Preprocessing in Python
+- Libraries used: **Pandas**
 - Tasks performed:
   - Removed duplicate and invalid entries.
-  - Standardized date formats and categorical fields.
+  - Standardized date formats.
 - Output: Cleaned dataset stored in a Pandas DataFrame.
 
-### 3️⃣ Database Setup in MS SQL Server
+### 3.3 Database Setup in MS SQL Server
 - Established a connection to MS SQL Server using **SQLAlchemy**.
 - Created a database table schema to match the cleaned dataset.
 - Loaded the DataFrame into SQL Server with `to_sql()` method.
 
-### 4️⃣ Data Visualization in Power BI
+### 3.4 Data Visualization in Power BI
 - Connected Power BI directly to MS SQL Server.
 - Created an interactive dashboard showing:
   - Total revenue and percentage changes.
