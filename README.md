@@ -1,12 +1,12 @@
 # Blinkit Retail Sales & Revenue Analysis
 
-## 📌 Project Overview
+## 1. Project Overview
 This project demonstrates a complete data analytics workflow using **Python**, **MS SQL Server**, and **Power BI**.  
 The dataset, sourced from [Kaggle - Blinkit Sales Dataset](https://www.kaggle.com/datasets/akxiit/blinkit-sales-dataset/data), is cleaned and prepared in Python, stored in MS SQL Server, and visualized in an interactive Power BI dashboard.
 
 ---
 
-## 🎯 Objectives
+##  2. Objectives
 - Build a reproducible **ETL pipeline** from raw CSV to BI dashboard.
 - Practice **data cleaning and preprocessing** using Python.
 - Store processed data in **MS SQL Server** to simulate real-world database integration.
@@ -14,7 +14,7 @@ The dataset, sourced from [Kaggle - Blinkit Sales Dataset](https://www.kaggle.co
 
 ---
 
-## 🛠️ Workflow & Methodology
+## 3. Workflow
 
 ### 1️⃣ Data Acquisition
 - Downloaded the Blinkit sales dataset from Kaggle in CSV format.
