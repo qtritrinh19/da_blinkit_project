@@ -21,7 +21,7 @@ This project simulates a real-world environment where data is processed, stored,
 
 The dashboard is the final product of the analysis pipeline, designed for end-users (like Sales Managers or the Marketing Team) to easily interact with and explore insights.
 
-![Dashboard](/BlinkitDash_img.jpg)
+![Dashboard](/Blinkit_Dash.jpg)
 
 **Key Features of the Dashboard:**
 * **High-Level KPIs:** Track total revenue, Month-over-Month/Year-over-Year growth, and other critical metrics at a glance.
