@@ -55,43 +55,11 @@ The project is built on a clear and automated ETL (Extract - Transform - Load) p
 
 ## 🛠️ **Technology Stack**
 
-* **Programming Language:** `Python 3.x`
+* **Programming Language:** `Python 3`
 * **Python Libraries:** `Pandas`, `SQLAlchemy`
 * **Database:** `Microsoft SQL Server`
 * **Business Intelligence:** `Microsoft Power BI`
 
-## 🚀 **Installation & Usage**
-
-To run this project on your local machine, please follow these steps:
-
-**Prerequisites:**
-* Python 3.x
-* MS SQL Server installed and running.
-* Power BI Desktop.
-
-**Steps:**
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
-    ```
-2.  **Create a virtual environment and install dependencies:**
-    ```bash
-    python -m venv venv
-    venv\Scripts\activate  # On Windows
-    # source venv/bin/activate  # On macOS/Linux
-    pip install -r requirements.txt
-    ```
-3.  **Configure the Database:**
-    * Open the Python script (`your_script_name.py`).
-    * Update the database connection string with your MS SQL Server credentials.
-4.  **Run the ETL script:**
-    ```bash
-    python your_script_name.py
-    ```
-5.  **Open the Power BI report:**
-    * Open the `.pbix` file using Power BI Desktop.
-    * If prompted, update the data source credentials in Power Query to connect to your local SQL Server instance.
 
 ---
 Thank you for checking out this project!
