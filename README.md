@@ -7,7 +7,6 @@
 
 This project showcases a complete end-to-end data analytics workflow, from raw data to an interactive dashboard, solving a real-world business case for sales performance analysis.
 
-**(IMPORTANT) View the live, interactive dashboard here: ![Dashboard](/Blinkit_Dash.pbix)**
 
 ## 🎯 **Project Objectives & Business Context**
 
