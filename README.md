@@ -15,7 +15,7 @@ The primary goal of this project is to transform raw sales data into actionable 
 
 The final output of the analysis pipeline is a dynamic dashboard designed for end-users (like Sales Managers and the Marketing Team) to easily monitor and explore key insights.
 
-![Dashboard](/Blintit_Dash.jpg)
+![Dashboard](/Blinkit_Dash.jpg)
 
 **Key Features:**
 
