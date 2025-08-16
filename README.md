@@ -15,12 +15,14 @@ The primary goal of this project is to transform raw sales data into actionable 
 
 The final output of the analysis pipeline is a dynamic dashboard designed for end-users (like Sales Managers and the Marketing Team) to easily monitor and explore key insights.
 
+![Dashboard](/image/Blintit_Dash.png)
+
 **Key Features:**
 
-* [cite_start]**High-Level KPIs:** Instantly track critical metrics such as total revenue, which hit **$255.9K**, a strong Month-over-Month (MoM) growth of **+10.75%**, but also a concerning Year-over-Year (YoY) decline of **-3.03%**[cite: 30, 31, 97].
-* [cite_start]**In-Depth Analysis:** Drill down into the performance of each category, highlighting the outstanding **+95.86%** MoM growth of "Dairy & Breakfast" and the alarming **-50.65%** MoM decline of "Personal Care"[cite: 36, 48, 99, 100].
+* **High-Level KPIs:** Instantly track critical metrics such as total revenue, which hit **$255.9K**, a strong Month-over-Month (MoM) growth of **+10.75%**, but also a concerning Year-over-Year (YoY) decline of **-3.03%**.
+* **In-Depth Analysis:** Drill down into the performance of each category, highlighting the outstanding **+95.86%** MoM growth of "Dairy & Breakfast" and the alarming **-50.65%** MoM decline of "Personal Care".
 * **Dynamic Filtering:** Users can flexibly filter the report by date, month, year, or specific product categories.
-* [cite_start]**Top/Bottom Performers:** Automatically identifies best-selling products (like **Butter, Bread, and Pet Treats**) and products with the sharpest revenue drops (like **Toothpaste and Cough Syrup**) to inform marketing and inventory strategies[cite: 61, 63, 65, 67].
+* **Top/Bottom Performers:** Automatically identifies best-selling products (like **Butter, Bread, and Pet Treats**) and products with the sharpest revenue drops (like **Toothpaste and Cough Syrup**) to inform marketing and inventory strategies.
 
 ##  3. Detailed Analysis & Strategic Recommendations
 
@@ -28,30 +30,30 @@ Based on the data, the project has identified key growth drivers and risks, lead
 
 ### Business Health: Short-Term Gain vs. Long-Term Pain
 
-[cite_start]While this month saw a strong recovery with a **+10.75% MoM revenue increase**, it masks a persistent negative long-term trend, with revenue down **-3.03%** compared to the same time last year[cite: 30, 31, 33, 97]. [cite_start]This indicates that the short-term gains are not yet enough to reverse the concerning long-term trajectory[cite: 32].
+While this month saw a strong recovery with a **+10.75% MoM revenue increase**, it masks a persistent negative long-term trend, with revenue down **-3.03%** compared to the same time last year. This indicates that the short-term gains are not yet enough to reverse the concerning long-term trajectory.
 
 ### Growth Drivers 
 
-* [cite_start]**Dairy & Breakfast:** The top-performing category with **$47.2K in revenue** and an outstanding MoM growth of **+95.86%**, driven primarily by its core products, **Butter and Bread**[cite: 36, 40, 61].
-* [cite_start]**Pet Care:** A strong contender with **$33.1K in revenue** and **+50.16% MoM growth**, with **Pet Treats** being the main driver[cite: 37, 41, 63].
-* [cite_start]**Fruits & Vegetables** and **Grocery & Staples** also demonstrated solid, stable growth[cite: 38, 39].
+* **Dairy & Breakfast:** The top-performing category with **$47.2K in revenue** and an outstanding MoM growth of **+95.86%**, driven primarily by its core products, **Butter and Bread**.
+* **Pet Care:** A strong contender with **$33.1K in revenue** and **+50.16% MoM growth**, with **Pet Treats** being the main driver.
+* **Fruits & Vegetables** and **Grocery & Staples** also demonstrated solid, stable growth.
 
 ### Key Risks 
 
-* [cite_start]**Personal Care:** The biggest risk category, experiencing a significant **-50.65% MoM decline**[cite: 48, 100]. [cite_start]This issue is concentrated in one specific product, **Toothpaste**, which saw a sharp revenue drop of **-$7,816**[cite: 65, 66].
-* [cite_start]**Pharmacy:** Showed a considerable **-28.27% MoM decrease**, confirming a broader trend of decline within the category, led by **Cough Syrup and Vitamins**[cite: 49, 67, 68, 101].
-* [cite_start]**Hidden Risk:** Even within the high-growth "Dairy & Breakfast" category, the product **Cheese** is struggling, with a revenue decline of **-$3,741**[cite: 69, 70]. This highlights the need for product-level monitoring.
+* **Personal Care:** The biggest risk category, experiencing a significant **-50.65% MoM decline**. This issue is concentrated in one specific product, **Toothpaste**, which saw a sharp revenue drop of **-$7,816**.
+* **Pharmacy:** Showed a considerable **-28.27% MoM decrease**, confirming a broader trend of decline within the category, led by **Cough Syrup and Vitamins**.
+* **Hidden Risk:** Even within the high-growth "Dairy & Breakfast" category, the product **Cheese** is struggling, with a revenue decline of **-$3,741**. This highlights the need for product-level monitoring.
 
 ### Strategic Recommendations
 
-[cite_start]A two-pronged strategy is proposed: (1) Amplify growth in top-performing categories and (2) Intervene to mitigate risks in declining categories[cite: 103].
+A two-pronged strategy is proposed: (1) Amplify growth in top-performing categories and (2) Intervene to mitigate risks in declining categories.
 
 * **Short-Term Strategy:**
-    * [cite_start]**Growth:** Launch targeted marketing campaigns for **Butter, Bread, and Pet Treats**[cite: 82, 84]. [cite_start]Introduce special bundle deals for **Grocery & Staples**[cite: 86].
-    * [cite_start]**Risk Mitigation:** Conduct a quick market analysis to understand the decline of **Toothpaste**[cite: 89]. [cite_start]Initiate promotional campaigns with discounts on **Cough Syrup and Vitamins**[cite: 91].
+    * **Growth:** Launch targeted marketing campaigns for **Butter, Bread, and Pet Treats**. Introduce special bundle deals for **Grocery & Staples**.
+    * **Risk Mitigation:** Conduct a quick market analysis to understand the decline of **Toothpaste**. Initiate promotional campaigns with discounts on **Cough Syrup and Vitamins**.
 * **Long-Term Strategy:**
-    * [cite_start]Conduct a thorough competitive analysis of competitors' pricing, marketing, and product portfolios[cite: 73, 74].
-    * [cite_start]Perform a market needs assessment through customer surveys to ensure product offerings meet current demand[cite: 75, 76].
+    * Conduct a thorough competitive analysis of competitors' pricing, marketing, and product portfolios.
+    * Perform a market needs assessment through customer surveys to ensure product offerings meet current demand.
 
 ##  4. Technical Architecture & ETL Workflow
 
