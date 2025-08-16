@@ -1,10 +1,5 @@
 # **Blinkit Retail Sales & Revenue Analysis with Power BI and SQL**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 This project showcases a complete end-to-end data analytics workflow, from raw data to an interactive dashboard, solving a real-world business case for sales performance analysis.
 
 
