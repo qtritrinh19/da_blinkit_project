@@ -3,7 +3,7 @@
 This project showcases a complete end-to-end data analytics workflow, from raw data to an interactive dashboard, solving a real-world business case for sales performance analysis.
 
 
-## 🎯 **Project Objectives & Business Context**
+##  **1. Project Objectives & Business Context**
 
 The goal of this project extends beyond technical practice. It aims to answer core business questions for an e-commerce platform like Blinkit:
 * Which products and categories are the top revenue generators?
@@ -12,7 +12,7 @@ The goal of this project extends beyond technical practice. It aims to answer co
 
 This project simulates a real-world environment where data is processed, stored, and visualized to support data-driven business decisions.
 
-## ✨ **Interactive Dashboard Showcase - Power BI**
+##  **2. Interactive Dashboard Showcase - Power BI**
 
 The dashboard is the final product of the analysis pipeline, designed for end-users (like Sales Managers or the Marketing Team) to easily interact with and explore insights.
 
@@ -24,7 +24,7 @@ The dashboard is the final product of the analysis pipeline, designed for end-us
 * **Dynamic Filtering:** Users can dynamically filter the report by date, month, year, or specific product categories.
 * **Top/Bottom Performers:** Automatically identifies best-selling and worst-selling products to inform inventory and marketing strategies.
 
-## 🏗️ **Technical Architecture & Workflow**
+##  **3. Technical Architecture & Workflow**
 
 The project is built on a clear and automated ETL (Extract - Transform - Load) pipeline.
 
@@ -47,7 +47,7 @@ The project is built on a clear and automated ETL (Extract - Transform - Load) p
 * Connected Power BI directly to the MS SQL Server database using **DirectQuery** or **Import** mode for optimal performance and data freshness.
 * Built charts, measures, and calculated columns using **DAX** to derive meaningful insights from the raw data.
 
-## 🛠️ **Technology Stack**
+##  **4. Technology Stack**
 
 * **Programming Language:** `Python 3`
 * **Python Libraries:** `Pandas`, `SQLAlchemy`
